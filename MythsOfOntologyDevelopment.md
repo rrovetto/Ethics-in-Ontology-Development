@@ -1,4 +1,4 @@
-# Myths of Ontology Development & their Applications
+# Myths of Ontology Development & their Applications: Correcting Misinformation for Users and Developers of Ontologies  
 
 ## 1. The Myth of Mappings / The Shallowness of Harmonization
 
