@@ -6,7 +6,7 @@ Research and development into ethical, moral and social considerations of variou
 - To correct misinformation and myths of ontology development and use
 - To increase moral awareness and responsibility in semantic-related communities
 - To increase user awareness of the semantics and underlying viewpoints within ontologies they (users) may use
-- To ensure fairness, equal opportunity among ontologies in the community. To prevent monopolzation by any single ontology and other unethical practices. 
+- To ensure fairness, equal opportunity among ontologies in the community. 
 
 ## Rights
 © 2017-2020, Robert John Rovetto.
