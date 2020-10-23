@@ -7,6 +7,10 @@
 **Truth**: There is degrees of mappings / degrees of Semantic Harmoniztion. 
 - A mapping or harmonization between two ontologies is only a complete and true mapping/harmonization if all degrees or levels of abstract and commitments are examined for compatibility between the two ontologies.
 - *Degrees of mapping/harmonization:* there can be exact mapping, partial mapping, no mapping, etc.
+  - Analogy of the Shallowness of Mappings/Harmonization: 
+    - dipping your tow in a lake is like declaring two leaf ontology terms are semantically equivalent (have the same meaning).
+    - putting your foot in the like is like declaring semantically equivalent the immediately more abstract superordinate or subsuming terms.
+    - ...and so on.
 - *Compare the intended meaning and formal logical semantics of the two target terms/concepts that potentially map to one another.* 
 All commitments, at each degree of abstraction, of each of the two target concepts, terms, symbol-structures or ontologies to be mapped (or semantically harmonizaed) need to examined and compared. E.g., you need to understand the intended meaning and formal logical semantics of the ground (or most specific leaf term) is, and whether or to what extent it's the same as the other term it potentially maps to.  
 
