@@ -31,18 +31,18 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 **TRUTH**: *You do not need to, but it may be helpful sometimes. You can create and be innovative!*
 If you consider re-using other ontologies, you should excersie your right to be infored about the intended meaning, formal semantics, assumptions, and commitments the candidate ontology makes. Exercise due diligence so that you do not commit yourself to a worldview that you don't agree with or that may exclude the entities, content, or knowledge of your expertise and discipline.
 
-Rith regard to #2, this is partly why it is important to understand the assumptions and meaning of the most abstract ontology models--because some assumpt philosophical theories that may exclude or mischaracterize things you may want in your own model. For example, some ontologies will deny the exist, or miscategorize, things like mind, truth, God, etc. Some may assume a philosophical theory about activities or processes (very broadly concieved) you do not agree with, or that conflics with what your data or domain knowledge may suggest. *This is one reason to make your own ontology and your top-level ontology* (if you decide you want a most abstract semantic layer).
+With regard to #2, this is partly why it is important to understand the assumptions and meaning of the most abstract ontology models--because some assumpt philosophical theories that may exclude or mischaracterize things you may want in your own model. For example, some ontologies will deny the exist, or miscategorize, things like mind, truth, God, etc. Some may assume a philosophical theory about activities or processes (very broadly concieved) you do not agree with, or that conflics with what your data or domain knowledge may suggest. *This is one reason to make your own ontology and your top-level ontology* (if you decide you want a most abstract semantic layer).
 
-## 5. The Myth of Reinventign the Wheel.
+## 4. The Myth of Reinventign the Wheel.
 
 **Myth / Falsity**: Do not re-invent the wheel; reuse existing ontologies.
 
 **TRUTH**: *You do not need to, but it may be helpful sometimes. You can create and be innovative!*
+
 - That myth is often expressed in various disciplines, and often to the advantage of some who wish to gain users/custoers of their work/product. 
 It is often used to justify--incorrectly so--the use of a single product or resource; and hence is often abused by using it as a strategy to get one's ontology or product to be used, adopted, or bought (i.e. unethical). 
 
 - Re-use is more easily done with tools that are agnostic as to semantics, knowledge, etc. BUT, for knowledge organization systems and semantic resources such as ontologies or classification systems, there is an ethical aspect that we all must consider because here we are dealing with meaning about our concepts and sometimes very profound and important topics of humanity. We have an moral responsibility to not simply re-use without knowing the intended meaning, assumped worldviews, and commitments made by semantic models like ontologies, metadata sets, vocabularies, etc.
-
 
 ## Rights
 
