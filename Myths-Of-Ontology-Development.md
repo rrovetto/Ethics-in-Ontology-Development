@@ -3,7 +3,7 @@
 
 ## 1. The Myth of Mappings / The Shallowness of Harmonization
 
-**MYTH / FALSITY**: mappings or harmonized ontologies are always complete or true mappings. :x:  
+**MYTH / FALSITY** :x:: mappings or harmonized ontologies are always complete or true mappings.  
 
 **TRUTH** :white_check_mark:: There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete. :white_check_mark:
 - A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping/harmonization if all degrees or levels of abstract and commitments are examined for compatibility between the two ontologies.
@@ -19,7 +19,7 @@ All commitments, at each degree of abstraction, of each of the two target concep
 NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifying equivalence in intended meaning between two symbol structures (e.g., a term in an ontology, a class with a term label, etc.). 'semantic compatibility' means two ontologies or two concepts/terms/symbol-structures 
 
 ## 2. The Myth of Upper-level or Top-level ontology Use or Re-use.
-**MYTH / FALSITY**: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
+**MYTH / FALSITY**:x:: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
 
 **TRUTH** :white_check_mark:: 
 - (A) you **do not** need an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. :white_check_mark:
