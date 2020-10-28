@@ -36,12 +36,11 @@ With regard to #2, this is partly why it is important to understand the assumpti
 
 ## 4. The Myth of Reinventign the Wheel.
 
-**Myth / Falsity**:x:: Do not re-invent the wheel; reuse existing ontologies.
+**Myth / Falsity**:x:: Do not re-invent the wheel (reuse existing ontologies).
 
-**TRUTH**:white_check_mark:: *You do not need to, but it may be helpful sometimes. You can create and be innovative!*
-
-- That myth is often expressed in various disciplines, and often to the advantage of some who wish to gain users/custoers of their work/product. 
-It is often used to justify--incorrectly so--the use of a single product or resource; and hence is often abused by using it as a strategy to get one's ontology or product to be used, adopted, or bought (i.e. unethical). 
+**TRUTH**:white_check_mark:: **You do not need to, but it may be helpful sometimes. You can create and be innovative!**
+- There are ways to achieve interoperability besides re-use.
+- That myth is expressed in various disciplines, often to the advantage of a few who wish to gain users or custoers of their product. It is often used to justify--incorrectly so--the use of a single product or resource, to the disadvantage of other (perhaps competing products). It's abused as a unethical strategy to get one's ontology adopted or used. 
 
 - **Tool Re-use vs. Semantic Re-use.**  
   - Re-use is more easily done with tools that are _agnostic_ as to semantics, knowledge, etc. 
