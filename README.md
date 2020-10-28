@@ -3,7 +3,7 @@ Research and development into ethical, moral and social considerations of variou
 
 ## Goals
 - A set of ethical principles for ontology development
-- To [correct misinformation and myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of ontology development and use
+- To correct [misinformation and myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of ontology development and use
 - To increase moral awareness and responsibility in semantic-related communities
 - To increase user awareness of the semantics and underlying viewpoints within ontologies they (users) may use
 - To ensure fairness, equal opportunity among ontologies in the community. 
