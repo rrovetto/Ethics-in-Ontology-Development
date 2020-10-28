@@ -43,7 +43,9 @@ With regard to #2, this is partly why it is important to understand the assumpti
 - That myth is often expressed in various disciplines, and often to the advantage of some who wish to gain users/custoers of their work/product. 
 It is often used to justify--incorrectly so--the use of a single product or resource; and hence is often abused by using it as a strategy to get one's ontology or product to be used, adopted, or bought (i.e. unethical). 
 
-- Re-use is more easily done with tools that are agnostic as to semantics, knowledge, etc. BUT, for knowledge organization systems and semantic resources such as ontologies or classification systems, there is an ethical aspect that we all must consider because here we are dealing with meaning about our concepts and sometimes very profound and important topics of humanity. We have an moral responsibility to not simply re-use without knowing the intended meaning, assumped worldviews, and commitments made by semantic models like ontologies, metadata sets, vocabularies, etc.
+- **Tool Re-use vs. Semantic Re-use.**  
+  - Re-use is more easily done with tools that are _agnostic_ as to semantics, knowledge, etc. 
+  - BUT, knowledge organization systems and semantic resources such as ontologies are not agnostic: they are inherently about meaning/semantics/knowlege. Some of it may be about profound, sensitive or unanswered concepts of humanity. And therefore there is an ethical aspect and responsibiity to it. Re-use depends on whether that meaning matches yours (or your data), or whether it is correct/accurate/acceptable/etc.  We have an moral responsibility to not simply re-use without knowing the intended meaning, assumped worldviews, and commitments made by semantic models like ontologies, metadata sets, vocabularies, etc. You have a right to be aware and be informed, regardless of the degree of abstraction.
 
 ## Rights
 
