@@ -3,7 +3,7 @@
 
 ## 1. The Myth of Mappings / The Shallowness of Harmonization
 
-**MYTH / FALSITY**: mappings between terms, or harmonized ontologies, are always complete or true mappings. :x:  
+**MYTH / FALSITY** :x:: mappings between terms, or harmonized ontologies, are always complete or true mappings.   
 
 **TRUTH** :white_check_mark:: There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete.
 - A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping/harmonization if all degrees or levels of abstract and commitments are examined for compatibility between the two ontologies.
@@ -22,9 +22,9 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 **MYTH / FALSITY**:x:: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
 
 **TRUTH** :white_check_mark:: 
-- (A) you **do not** need an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. :white_check_mark:
-- (B) you **can** create your own upper or top-level ontology. NOTE: This is encouraged to foster diversity, creativity, innovation in the communtiy, and to ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology. :white_check_mark:
-- (C) Re-use is often used as a selfish strategy to justify using a particular ontology product. In reality, re-use dependts on the situation: the project and it's specifics; SOmetimes re-use is helpful, but not always. :white_check_mark:
+- (A) you **do not** need an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
+- (B) you **can** create your own upper or top-level ontology. NOTE: This is encouraged to foster diversity, creativity, innovation in the communtiy, and to ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology. 
+- (C) Re-use is often used as a selfish strategy to justify using a particular ontology product. In reality, re-use dependts on the situation: the project and it's specifics; SOmetimes re-use is helpful, but not always. 
 
 ## 3. The Myth of Ontology Re-use (in general)
 **Myth / Falsity**:x:: you should re-use existing ontologies.
