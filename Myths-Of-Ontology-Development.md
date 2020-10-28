@@ -3,11 +3,11 @@
 
 ## 1. The Myth of Mappings / The Shallowness of Harmonization
 
-**Myth / Falsity**: mappings are always complete or true mappings. Harmonized ontologies or vocabularies are always complete or true harmonizations.
+**MYTH / FALSITY**: mappings are always complete or true mappings. Harmonized ontologies or vocabularies are always complete or true harmonizations.
 
-**TRUTH**: There is degrees of mappings / degrees of Semantic Harmoniztion. Mappings may not be correct.
-- *Mappings may be false or incorrect* if the intended meaning of the mapped entities is not examined and compared. A mapping that only looks at the character string, or the phrasing of the term, is a **shallow mapping** and an incomplete mapping if there the terms are defined or have commitments and more abstract characterizations (e.g., subsuming terms). 
-- A mapping or harmonization between two ontologies is only a complete and true mapping/harmonization if all degrees or levels of abstract and commitments are examined for compatibility between the two ontologies.
+**TRUTH**: There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete.
+- A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping/harmonization if all degrees or levels of abstract and commitments are examined for compatibility between the two ontologies.
+- *Mappings may be false, incorrect, or partial* if the intended meaning of the mapped entities is not examined and compared. A mapping that only looks at the character string or the phrasing of the term is a **shallow mapping**. It is an **incomplete mapping** if the terms are defined with other more abstract terms or if they have commitments (e.g., via subsuming or parent category terms). 
 - *Degrees of mapping/harmonization:* there can be exact mapping, partial mapping, no mapping, etc.
   - Analogy of the Shallowness of Mappings/Harmonization: 
     - dipping your tow in a lake is like declaring two leaf ontology terms are semantically equivalent (have the same meaning).
