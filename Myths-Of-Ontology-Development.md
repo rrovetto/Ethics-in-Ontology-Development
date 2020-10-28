@@ -24,9 +24,9 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 **MYTH / FALSITY**:x:: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
 
 **TRUTH** :white_check_mark:: 
-- (A) you **do not need** an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
-- (B) **you can create your** own upper or top-level ontology.  NOTE: This is encouraged to foster diversity, creativity, innovation in the communtiy, and to ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology. 
-- (C) _Re-use is often used as an unethical strategy to justify using someone's ontology product_. In reality, re-use depends on the situation: the project and it's specifics, whether you agree on the worldview and semantics of the upper ontology, whether the ontology fits your data and domain expertise, etc.  
+- you **do not need** an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
+- **you can create your** own upper or top-level ontology.  NOTE: This is encouraged to foster diversity, creativity, innovation in the communtiy, and to ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology. 
+- _Re-use is often used as an unethical strategy to justify using someone's ontology product_. In reality, re-use depends on the situation: the project and it's specifics, whether you agree on the worldview and semantics of the upper ontology, whether the ontology fits your data and domain expertise, etc.  
 
 ## 3. The Myth of Ontology Re-use (in general)
 **Myth / Falsity**:x:: you should re-use existing ontologies (any type).
