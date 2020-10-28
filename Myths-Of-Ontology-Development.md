@@ -3,7 +3,7 @@
 
 ## 1. The Myth of Mappings / The Shallowness of Harmonization
 
-**MYTH / FALSITY** :x:: mappings or harmonized ontologies are always complete or true mappings.  
+**MYTH / FALSITY** :x:: mappings between terms, or harmonized ontologies, are always complete or true mappings.  
 
 **TRUTH** :white_check_mark:: There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete.
 - A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping/harmonization if all degrees or levels of abstract and commitments are examined for compatibility between the two ontologies.
