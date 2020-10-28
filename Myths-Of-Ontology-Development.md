@@ -19,10 +19,10 @@ All commitments, at each degree of abstraction, of each of the two target concep
 NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifying equivalence in intended meaning between two symbol structures (e.g., a term in an ontology, a class with a term label, etc.). 'semantic compatibility' means two ontologies or two concepts/terms/symbol-structures 
 
 ## 2. The Myth of Upper-level or Top-level ontology Use or Re-use.
-**Myth / Falsity**: you should use an existing top-level ontology (also called upper-level, foundational, core ontology).
+**MYTH / FALSITY**: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
 
 **TRUTH**: 
-- (A) you **do not** need upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial.
+- (A) you **do not** need an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial.
 - (B) you **can** create your own upper or top-level ontology. NOTE: This is encouraged to foster diversity, creativity, innovation in the communtiy, and to ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology.
 - (C) Re-use is often used as a selfish strategy to justify using a particular ontology product. In reality, re-use dependts on the situation: the project and it's specifics; SOmetimes re-use is helpful, but not always.
 
