@@ -10,9 +10,9 @@
 - *Mappings may be false, incorrect, or partial* if the intended meaning of the mapped entities is not examined and compared. A mapping that only looks at the character string or the phrasing of the term is a **shallow mapping**. It is an **incomplete mapping** if the terms are defined with other more abstract terms or if they have commitments (e.g., via subsuming or parent category terms). 
 - *Degrees of mapping/harmonization:* there can be exact mapping, partial mapping, no mapping, etc.
   - Analogy of the Shallowness of Mappings/Harmonization: 
-    - dipping your tow in a lake is like declaring two leaf ontology terms are semantically equivalent (have the same meaning).
-    - putting your foot in the like is like declaring semantically equivalent the immediately more abstract superordinate or subsuming terms.
-    - ...and so on.
+    - dipping your toe in a lake is like declaring two leaf terms are semantically equivalent (have the same meaning).
+    - putting your foot in the like is like declaring the two leaf terms with their immediate parent (more abstract/superordinate/subsuming) terms are semantically equivalent.
+    - ...and so on depending on how deep or abstract the nesting goes. 
 - *Compare the intended meaning and formal logical semantics of the two target terms/concepts that potentially map to one another.* 
 All commitments, at each degree of abstraction, of each of the two target concepts, terms, symbol-structures or ontologies to be mapped (or semantically harmonizaed) need to examined and compared. E.g., you need to understand the intended meaning and formal logical semantics of the ground (or most specific leaf term) is, and whether or to what extent it's the same as the other term it potentially maps to.  
 
