@@ -9,7 +9,7 @@ Both formal ontology and ontology engineering in computer and information scienc
 Because both (at least the former) are often analytical activities, their resultant models or theories may vary, but are typically started with some assumptions.
 Those assumptions may be logical, metaphysical (philosophical ontology), or otherwise. 
 
-** Therefore, you should always take any ontological model with a grain of salt. That is, there can be many.**
+**Therefore, you should always take any ontological model with a grain of salt. That is, there can be many.**
 For example, mereology is the study of part and their wholes, using formal meethods such as logic and formal ontology. 
 Each mereological account may begin with a different set of assumptions. Therefore there is no single theory of mereology, but more than one depending on first principles, etc. 
 
