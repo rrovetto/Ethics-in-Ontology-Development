@@ -1,14 +1,14 @@
 # Myths of Ontology Development & their Applications: 
 **_Correcting Misinformation for Users and Developers of Ontologies_**
 
-## 1. The Myth of Mappings / The Shallowness of Harmonization
+## 1. The Myth of Mappings. 
 
 **MYTH / FALSITY** :x:: mappings between terms, or harmonized ontologies, are always complete or true mappings.   
 
-**TRUTH** :white_check_mark:: There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete.
-- A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping if all degrees or levels of abstraction, subsumption and commitments are understood and examined for semantic equivalence between the two. (e.g. a parent term in one ontology may not be intended in another).
+**TRUTH** :white_check_mark:: **There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete.**
+- A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping if all degrees or levels of abstraction, subsumption and commitments are understood and examined for semantic equivalence between the two. (e.g. a parent concept in one ontology may not be intended in another).
 - *Alleged mappings may be false, incorrect, or partial* if the intended meaning of the mapped entities is not examined and compared. 
-  - _A string match is not enough_: a mapping that only looks at the character string or the phrasing of the term is a **shallow mapping** and incomplete. 
+  - _A string match is not enough_: a mapping that only looks at the character string or the phrasing of the term is a **shallow mapping** and incomplete. (The Shallowness of Harmonization)
   - It is an **incomplete mapping** if the terms are defined using other (perhaps more abstract) terms or if they have commitments or constraints (e.g., via subsuming or parent category terms). So these aspects must be understood when doing mappings. 
 - **Degrees of mapping/harmonization:** there can be _exact mapping_, _partial mapping_, _no mapping_, etc.
   - Analogy of the Shallowness of Mappings/Harmonization: 
@@ -37,7 +37,7 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 
 With regard to #2, this is why it's important to understand the assumptions and meaning of the most abstract ontology models: because some of them assume philosophical theories that may exclude or mischaracterize things you may want to inlude in your model. For example, some ontologies will deny the existence, or miscategorize, things like mind, truth, God, etc. Some may assume a philosophical theory about activities or processes (very broadly concieved) that you may not agree with, or that conflicts with what your data or domain knowledge may suggest. *This is one reason to make your own ontology and your top-level ontology* (if you decide you want a most abstract semantic layer).
 
-## 4. The Myth of Reinventign the Wheel.
+## 4. The Myth of Reinventing the Wheel.
 
 **Myth / Falsity**:x:: Do not re-invent the wheel (reuse existing ontologies).
 
