@@ -1,10 +1,9 @@
 ## Background Concepts in Formal Ontology & Ontology Engineering
 
-### Many Models / Theory -- Many starting assumptions
+### 1. There are Many Theories & Many starting assumptions
 
-Formal ontology is an _abstract_ and _analytical_ branch of metaphysics that aims to characterize a topic area using logics in a highly generic, often domain-independent manner.
-
-Both formal ontology and ontology engineering in computer and information science (e.g. in AI) often involve creating models, accounts, or theories. 
+- Formal ontology is an _abstract_ and _analytical_ branch of metaphysics that characterizes a given topic or set of concepts using formal logics in a highly generic, often domain-independent manner. It aims for identifying invariant features of things (broadly construed). Logics include first-order predicate calculus. A formal ontology is effectively a model, account or theory consisting of that characterization. 
+- Both formal ontology and ontology engineering in computer and information science (e.g. in AI) often involve creating models, accounts, or theories. 
 
 Because both (at least the former) are often analytical activities, their resultant models or theories may vary, but are typically started with some assumptions.
 Those assumptions may be logical, metaphysical (philosophical ontology), or otherwise. 
@@ -21,3 +20,6 @@ set vs. element,
 category vs. individual
 ...
 The readers is encouraged to look at Type theory and others to understand related formal concepts.
+
+#### Author: 
+- Robert J. Rovetto, rrovetto@terpalum.umd.edu 
