@@ -15,5 +15,9 @@ Each mereological account may begin with a different set of assumptions. Therefo
 
 ### Conceptual & Abstract Distinctions
 
-**Generic vs. Specific** is a common and perhaps fundamental distinction used in many disciplines but ubiquitous in ontology. It stems from ancient philosophical inquiry, and has resulted in contemporary distinctions such as
-class vs. member, set vs. element, category vs. individual, etc.
+The **Generic vs. Specific** distinction is a common, and perhaps fundamental, distinction used in many disciplines. It is ubiquitous in ontology. It stems from ancient philosophical inquiry, and has resulted in contemporary distinctions in mathematics, computer and information science such as:
+class vs. member, 
+set vs. element, 
+category vs. individual
+...
+The readers is encouraged to look at Type theory and others to understand related formal concepts.
