@@ -12,5 +12,10 @@ Research and development into ethical, moral and social considerations of variou
 - If ontologies are, in part, about stating the things presumed to exist, then you better be informed whether a given ontology is inclusive of what you, your data, or your organnization believes to exist. Be aware whether an ontology accepts, or miscategorizes/micharacterizes the things you want to include in an ontology. 
 - Your mental model should not be forced under, or changed into, that of another ontology or it's developers, at least not without your consent.
 
-## Rights
-© 2017-2020, Robert John Rovetto.
+## Warranty
+No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
+
+## Copyright
+© 2017-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
