@@ -1,7 +1,7 @@
 # Myths of Ontology Development & Use
 **_Correcting Misinformation for Users and Developers of Ontologies_**
-* If you find value in my work and this information, [please support here](https://goget.fund/2IjdMNU).
-* [Purchase the full presentation here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s6308856db204f932337618af86352c19c3c0f8de).
+* [Purchase the full presentation here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s6308856db204f932337618af86352c19c3c0f8de) or at [this page](https://goget.fund/2IjdMNU).
+* If you find value in my work, [please donate here](https://tinyurl.com/yyoo6z96).
 
 ## 1. The Myth of Mappings. 
 
@@ -53,5 +53,5 @@ With regard to #2, this is why it's important to understand the assumptions and 
 
 ## Rights
 
-© 2017-2020, Robert John Rovetto. All rights reserved. 
+© 2017-2021, Robert John Rovetto. All rights reserved. 
 Not authorized for commercial use unless explicitly negotated with the copyright holder and author.
