@@ -1,6 +1,7 @@
 # Myths of Ontology Development & Use: 
 **_Correcting Misinformation for Users and Developers of Ontologies_**
 If you find value in my work and this information, [please support here](https://goget.fund/2IjdMNU).
+* [Purchase the full presentation here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s6308856db204f932337618af86352c19c3c0f8de).
 
 ## 1. The Myth of Mappings. 
 
