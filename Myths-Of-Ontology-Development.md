@@ -26,8 +26,10 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 **MYTH / FALSITY**:x:: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
 
 **TRUTH** :white_check_mark:: 
-- you **do not need** an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
-- **you can create your** own upper or top-level ontology.  NOTE: This is encouraged to foster diversity, creativity, innovation in the communtiy, and to ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology. 
+- You **do not need** an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
+- **You can create your** own upper or top-level ontology. You can create it collaboratiely or otherwise. 
+-   NOTE: I encourage this to foster diversity, creativity, innovation in the communtiy. It will also help ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology.
+-   NOTE: this is not intended to ignore the years of collaborative effort that have gone into many of the existing top-level ontologies. Yes, such organized and team effort is often more efficient, but this myth and the correspding fact is simply to state the facts.  
 - _Re-use is often used as an unethical strategy to justify using someone's ontology product_. In reality, re-use depends on the situation: the project and it's specifics, whether you agree on the worldview and semantics of the upper ontology, whether the ontology fits your data and domain expertise, etc.  
 
 ## 3. The Myth of Ontology Re-use (in general)
