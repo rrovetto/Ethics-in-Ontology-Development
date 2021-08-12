@@ -7,10 +7,10 @@
 
 **MYTH / FALSITY** :x:: mappings between terms, or harmonized ontologies, are always complete or true mappings.   
 
-**TRUTH** :white_check_mark:: **There are degrees of mappings / degrees of semantic harmoniztion. Mappings may not be correct or complete.**
-- A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping if all degrees or levels of abstraction, subsumption and commitments are understood and examined for semantic equivalence between the two. (e.g. a parent concept in one ontology may not be intended in another).
+**TRUTH(S)** :white_check_mark:: **There are degrees of mappings, degrees of semantic harmoniztion. Mappings may not be correct or complete.**
+- A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping if all degrees or levels of abstraction, subsumption and commitments are understood and examined for semantic (and other) equivalence between the two. (e.g. a parent concept in one ontology may not be intended or included in another).
 - *Alleged mappings may be false, incorrect, or partial* if the intended meaning of the mapped entities is not examined and compared. 
-  - _A string match is not enough_: a mapping that only looks at the character string or the phrasing of the term is a **shallow mapping** and incomplete. (The Shallowness of Harmonization)
+  - _A string match is not enough_: a mapping that only looks at the symbol/character string or the natural-language phrasing of the term is a **shallow mapping** and incomplete. (The Shallowness of Harmonization)
   - It is an **incomplete mapping** if the terms are defined using other (perhaps more abstract) terms or if they have commitments or constraints (e.g., via subsuming or parent category terms). So these aspects must be understood when doing mappings. 
 - **Degrees of mapping/harmonization:** there can be _exact mapping_, _partial mapping_, _no mapping_, etc.
   - Analogy of the Shallowness of Mappings/Harmonization: 
@@ -35,11 +35,12 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 ## 3. The Myth of Ontology Re-use (in general)
 **Myth / Falsity**:x:: you should re-use existing ontologies (any type).
 
-**TRUTH**:white_check_mark:: You **do not need to**. **You can create your own and be innovative!** 
-- It depends on the situation. Re-use may be helpful sometimes, but it is not necessary. 
+**TRUTH**:white_check_mark:: You **do not need to (re)use an existing ontology**. **You can create your own and be innovative!** 
+- It depends on the situation. Re-use may be helpful sometimes, but it is not necessary.
+- Some who argue for reusing it are assuming that the intended meaning, model and conceptualizations between the potentially (re)used ontology and the user are the same. But we cannot assume this.   
 - If you consider re-using other ontologies, then **excersie your right to be infored about the intended meaning, formal semantics, assumptions, and commitments the candidate ontology and its developers**. _Exercise due diligence so that you do not commit yourself to a model, or a worldview that you don't agree with or that may exclude the entities, content, data or knowledge of your expertise, beliefs, and discipline._ (e.g., some may exclude or mischaracterize things like Mind)
 
-With regard to #2, this is why it's important to understand the assumptions and meaning of the most abstract ontology models: because some of them assume philosophical theories that may exclude or mischaracterize things you may want to inlude in your model. For example, some ontologies will deny the existence, or miscategorize, things like mind, truth, God, etc. Some may assume a philosophical theory about activities or processes (very broadly concieved) that you may not agree with, or that conflicts with what your data or domain knowledge may suggest. *This is one reason to make your own ontology and your top-level ontology* (if you decide you want a most abstract semantic layer).
+With regard to #2, this is why it's important to understand the assumptions and meaning of the most abstract ontology models: because some of them assume philosophical theories that may exclude or mischaracterize things you may want to inlude in your model. For example, some ontologies will deny the existence, or miscategorize, things like mind, truth, God, etc. Some may assume a philosophical theory about activities or processes (very broadly concieved) that you may not agree with, or that conflicts with what your data or domain knowledge may suggest. Some may assume a particular theory of causality (cause-effect) that you do not subscribe to. And so on. *This is one reason to make your own ontology and, if desired, your own generic or top-level ontology*.
 
 ## 4. The Myth of Reinventing the Wheel.
 
@@ -56,4 +57,5 @@ With regard to #2, this is why it's important to understand the assumptions and 
 ## Rights
 
 © 2017-2021, Robert John Rovetto. All rights reserved. 
-Not authorized for commercial use unless explicitly negotated with the copyright holder and author.
+Not authorized for commercial use unless explicitly negotated with the copyright holder and author. 
+No claims to completenes. No claims to complete accuracy. No warranty. No liability. 
