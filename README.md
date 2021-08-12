@@ -11,7 +11,7 @@ Research and development into ethical, moral and social considerations of variou
 - To ensure fairness, equal opportunity among ontologies in the community. 
 
 ## Preliminary Points
-- If ontologies are, in part, about stating the things presumed to exist, then you better be informed whether a given ontology is inclusive of what you, your data, or your organnization believes to exist. Be aware whether an ontology accepts, or miscategorizes/micharacterizes the things you want to include in an ontology. 
+- If ontologies are, in part, about stating the things that are either of interest or presumed to exist, then you should be informed whether a given ontology is inclusive of what you, your data, or your organnization believes to exist. Be aware whether an ontology accepts, or miscategorizes/micharacterizes the things you want to include in an ontology. 
 - Your mental model should not be forced under, or changed into, that of another ontology or it's developers, at least not without your consent.
 - Question worth exploring: is raw data empty of inherent semantics? is all raw data open to semantic interpretation? do we ascribe semantics to datasets and individual data elements? If datasets or data elements collected from some source do not have any inherent or unique semantics, then it would be ethical to not exclusively associate a single semantics (e.g., a metadata set, or an ontology annotating that data) to that data. 
 
