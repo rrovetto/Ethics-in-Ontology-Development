@@ -21,3 +21,6 @@ For Developers & Owners of Ontologies
 - Do not use logical fallacies or invalid arguments to attempt gaining users of your ontology: 
 -   do not appeal to popularity (e.g., having a large user-base), 
 -   authority (e.g., having an ontology published in a standards organization or as a standard), 
+
+### Copyright
+© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
