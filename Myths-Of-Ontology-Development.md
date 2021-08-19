@@ -54,7 +54,7 @@ With regard to #2, this is why it's important to understand the assumptions and 
   - Re-use is more easily done with tools that are _agnostic_ as to semantics, knowledge, etc. 
   - BUT, knowledge organization systems and semantic resources such as ontologies are not agnostic: they are inherently about meaning/semantics/knowlege. Some of it may be about profound, sensitive or unanswered concepts of humanity. And therefore there is an ethical aspect and responsibiity to it. Re-use depends on whether that meaning matches yours (or your data), or whether it is correct/accurate/acceptable/etc.  We have an moral responsibility to not simply re-use without knowing the intended meaning, assumped worldviews, and commitments made by semantic models like ontologies, metadata sets, vocabularies, etc. You have a right to be aware and be informed, regardless of the degree of abstraction.
 
-## Rights
+## Copyright
 
 © 2017-2021, Robert John Rovetto. All rights reserved. 
 Not authorized for commercial use unless explicitly negotated with the copyright holder and author. 
