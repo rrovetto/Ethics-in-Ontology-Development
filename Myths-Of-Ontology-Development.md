@@ -56,6 +56,7 @@ With regard to #2, this is why it's important to understand the assumptions and 
 
 ## Copyright
 
-© 2017-2021, Robert John Rovetto. All rights reserved. 
-Not authorized for commercial use unless explicitly negotated with the copyright holder and author. 
-No claims to completenes. No claims to complete accuracy. No warranty. No liability. 
+### Copyright
+© 2017-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
+No claims to completeness. No liability. No warranty.
