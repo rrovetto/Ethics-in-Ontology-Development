@@ -21,4 +21,5 @@ All content, work and products are subject to revision. No claims to completenes
 
 ## Copyright
 © 2017-2021, Robert John Rovetto. All right reserved.
-Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
+No claims to completeness. No liability. No warranty.
