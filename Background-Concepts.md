@@ -26,4 +26,6 @@ The readers is encouraged to look at Type theory and others to understand relate
 - Robert J. Rovetto, rrovetto@terpalum.umd.edu 
 
 ### Copyright
-© 2017-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+© 2017-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
+No claims to completeness. No liability. No warranty.
