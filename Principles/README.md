@@ -23,4 +23,7 @@ For Developers & Owners of Ontologies
 -   authority (e.g., having an ontology published in a standards organization or as a standard), 
 
 ### Copyright
-© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+© 2017-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
+No claims to completeness. No liability. No warranty.
+
