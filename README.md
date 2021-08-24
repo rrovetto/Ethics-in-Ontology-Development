@@ -1,4 +1,4 @@
-# Ethics in Ontology Development
+# Ethics in Ontology Development & Use
 Research and development into ethical, moral and social considerations of various aspects of ontologies and ontology development. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 **SEEKING formal work collaborations, a PhD study opportunity, or sponsorship for this topic. Please contact me at rrovetto@terpalum.umd.edu** 
