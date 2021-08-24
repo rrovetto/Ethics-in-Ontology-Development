@@ -15,11 +15,7 @@ Research and development into ethical, moral and social considerations of variou
 - Your mental model should not be forced under, or changed into, that of another ontology or it's developers, at least not without your consent.
 - Question worth exploring: is raw data empty of inherent semantics? is all raw data open to semantic interpretation? do we ascribe semantics to datasets and individual data elements? If datasets or data elements collected from some source do not have any inherent or unique semantics, then it would be ethical to not exclusively associate a single semantics (e.g., a metadata set, or an ontology annotating that data) to that data. 
 
-## Warranty
-No warranty. Presented "AS IS". Author and copyright holder is not liable.
-All content, work and products are subject to revision. No claims to completeness. 
-
 ## Copyright
 © 2017-2021, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
-No claims to completeness. No liability. No warranty.
+All content, work and products are subject to revision. No claims to completeness. No liability. No warranty.
