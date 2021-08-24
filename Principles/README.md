@@ -22,6 +22,7 @@ For Developers & Owners of Ontologies
 -   Do not appeal to popularity (e.g., having a perceived large user-base), 
 -   Do not appeal to authority (e.g., having an ontology published in a standards organization), 
 -   Do not promote the myth of reinventing the wheel. Do not attempt ot reject or put-down an individual or groups project of creating an ontology about domain D simply because some other ontology(s) are on domain D. (the fact is that, there are more than one way to model the perceived same target domain)
+-     Sadly, some journal and conference manuscript reviewers reject submissions on that (irrelevant/invalid) basis. More likely than not, they have a vested interest in the competing ontology. Hence, the need for ethical principles, ethical awareness and conduct in ontology development and use.
 -    
 ### Copyright
 © 2017-2021, Robert John Rovetto. All right reserved.
