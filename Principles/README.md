@@ -19,9 +19,10 @@ For Developers & Owners of Ontologies
 - **Transparency 1** - Explicitly disclose (to the intended audience, including users, data owners, stakeholders, etc.) all assumptions, worldviews (philosophical or otherwise), ontological commitments, intended semantics of the ontology.
 - **Transparency 2** - Explicitly disclose the imported ontologies (to the intended audience, including users, data owners, stakeholders, etc.) and their assumptions et al.
 - Do not use logical fallacies or invalid arguments to attempt gaining users of your ontology: 
--   do not appeal to popularity (e.g., having a large user-base), 
--   authority (e.g., having an ontology published in a standards organization or as a standard), 
-
+-   Do not appeal to popularity (e.g., having a perceived large user-base), 
+-   Do not appeal to authority (e.g., having an ontology published in a standards organization), 
+-   Do not promote the myth of reinventing the wheel. Do not attempt ot reject or put-down an individual or groups project of creating an ontology about domain D simply because some other ontology(s) are on domain D. (the fact is that, there are more than one way to model the perceived same target domain)
+-    
 ### Copyright
 © 2017-2021, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
