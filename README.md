@@ -15,6 +15,8 @@ Research and development into ethical, moral and social considerations of variou
 - If ontologies are, in part, about stating the things that are either of interest or presumed to exist, then you should be informed whether a given ontology is inclusive of what you, your data, or your organnization believes to exist. Be aware whether an ontology accepts, or miscategorizes/micharacterizes the things you want to include in an ontology. 
 - Your mental model should not be forced under, or changed into, that of another ontology or it's developers, at least not without your consent.
 - Question worth exploring: is raw data empty of inherent semantics? is all raw data open to semantic interpretation? do we ascribe semantics to datasets and individual data elements? If datasets or data elements collected from some source do not have any inherent or unique semantics, then it would be ethical to not exclusively associate a single semantics (e.g., a metadata set, or an ontology annotating that data) to that data. For a given dataset, what is a good (by what criteria is good?) ontology to annotate it? What is a good semantic model for tha data? 
+- **One ethical area of concern** is about an often-stated aspect of ontologies: **consensus/aggrement**. Ontologies are often described as being examples of common agreement (of a vocabulary, its definitions; of a worldview, of a model of the target domain of interest, etc.); or as aiming to reach consensus.
+  - We must ask and determine: is there, actually, agreement/consensus? was it reached? if so, how?  
 
 ## Copyright
 © 2017-2021, Robert John Rovetto. All right reserved.
