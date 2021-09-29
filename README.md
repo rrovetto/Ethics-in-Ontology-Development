@@ -4,11 +4,12 @@ Research and development into ethical, moral and social considerations of variou
 **SEEKING formal work collaborations, a PhD study opportunity, or sponsorship for this topic. Please contact me at rrovetto@terpalum.umd.edu** 
 
 ## Goals
-- A set of ethical principles for ontology development
+- A set of ethical guidelines/principles for ontology development
 - To correct [misinformation and myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) of ontology development and use
-- To increase moral awareness and responsibility in semantic-related communities
+- To increase moral awareness and responsibility in relevant communities and projects
 - To increase user awareness of the semantics and underlying viewpoints within ontologies they (users) may use
-- To ensure fairness, equal opportunity among ontologies in the community. 
+- To ensure fairness, equal opportunity among ontologies in the community.
+- To identify ethical aspects of ontology development and use. 
 
 ## Preliminary Points
 - Historically, and in modernity, 'ontology' (in the original and non-computaitonal sense) is the generic study of existence. As such, various ontological theories/accounts oftem make fundamental and profound claims about the nature of the world. Therefore, if any aspect of that endeavor (and its metaphysical questions) transfers to contemporary computational ontology where our personal and societal data (of all kinds), then there is a necessary moral imperative to understand what computational ontologies are claiming about the world, and how they are classifying and describing things. Many models, and many classifications, are possible. For these reason, it is both more ethical to not use any computational ontology that imposes any metaphysical worlview.  
