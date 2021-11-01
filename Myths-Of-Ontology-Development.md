@@ -8,6 +8,9 @@
 **MYTH / FALSITY** :x:: mappings between terms, or harmonized ontologies, are always complete or true mappings.   
 
 **TRUTH(S)** :white_check_mark:: **There are degrees of mappings, degrees of semantic harmoniztion. Mappings may not be correct or complete.**
+
+CAUTION: One ontology might import/adopt/assume/reuse another at some other degree of abstraction. That adds more complexity and semantics to the harmonization process. That added content may not be what you desire or agree with. Some ontologies do not disclose this, which will be to the advantage of the imported ontology group but to the disadvantage of others. So expect/demand transparency and examine those imported systems. So be aware of any imported, adopted, or reused vocabularies/ontologies that one or both of the mapped/harmonized vocabs/ontologies have or make.  
+
 - A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping if all degrees or levels of abstraction, subsumption and commitments are understood and examined for semantic (and other) equivalence between the two. (e.g. a parent concept in one ontology may not be intended or included in another).
 - *Alleged mappings may be false, incorrect, or partial* if the intended meaning of the mapped entities is not examined and compared. 
   - _A string match is not enough_: a mapping that only looks at the symbol/character string or the natural-language phrasing of the term is a **shallow mapping** and incomplete. (The Shallowness of Harmonization)
@@ -21,6 +24,7 @@
 All commitments, at each degree of abstraction, of each of the two target concepts, terms, symbol-structures or ontologies to be mapped (or semantically harmonizaed) need to examined and compared. E.g., you need to understand the intended meaning and formal logical semantics of the ground (or most specific leaf term) is, and whether or to what extent it's the same as the other term it potentially maps to.  
 
 NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifying equivalence in intended meaning between two symbol structures (e.g., a term in an ontology, a class with a term label, etc.). 'semantic compatibility' means two ontologies or two concepts/terms/symbol-structures 
+
 
 ## 2. The Myth of Upper-level or Top-level ontology Use or Re-use.
 **MYTH / FALSITY**:x:: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
