@@ -5,11 +5,11 @@
 
 ## 1. The Myth of Mappings. 
 
-**MYTH / FALSITY** :x:: mappings between terms, or harmonized ontologies, are always complete or true mappings.   
+**MYTH / FALSITY** :x:: mappings/harmonization/alignment activities between terms, vocabularies, ontologies, etc., are always correct, complete or true mappings. a given mapping/harmonizaiton activity will be accurate and guarantee correct mappings between your and other terms, vocabularies,etc.    
 
-**TRUTH(S)** :white_check_mark:: **There are degrees of mappings, degrees of semantic harmoniztion. Mappings may not be correct or complete.**
+**TRUTH(S)** :white_check_mark:: **There are degrees of mappings, degrees of semantic harmoniztion. Mappings may not be correct or complete. There are a number of considersations and tasks to get accurate mappings and harmonization, but not all activities perform them. **
 
-CAUTION: One ontology might import/adopt/assume/reuse another at some other degree of abstraction. That adds more complexity and semantics to the harmonization process. That added content may not be what you desire or agree with. Some ontologies do not disclose this, which will be to the advantage of the imported ontology group but to the disadvantage of others. So expect/demand transparency and examine those imported systems. So be aware of any imported, adopted, or reused vocabularies/ontologies that one or both of the mapped/harmonized vocabs/ontologies have or make.  
+**CAUTION**: One vocabulary or ontology might import/adopt/assume/reuse another at some other degree of abstraction. mapping/harmonization activities may not inform you of this when engaging in mapping/harmonization with your vocabulary. Depending on the activity, this may commit you to things you did not know, agree to, or desire (e.g., definitions, broader categorizations, logical formalizations, philosophical worldviews, etc.). _Note_ that an imported ontology in one that you are mapping to adds more complexity and semantics to the harmonization process. That added content may not be what you desire or agree with. Some ontologies do not disclose this aspect, which will be to the advantage of the imported ontology but to the disadvantage of other. So expect/demand transparency and examine those imported systems. So be aware of any imported, adopted, or reused vocabularies/ontologies that one or both of the mapped/harmonized vocabs/ontologies have or make.  
 
 - A mapping or harmonization between two terms, two vocabularies, or two ontologies is only a complete and true mapping if all degrees or levels of abstraction, subsumption and commitments are understood and examined for semantic (and other) equivalence between the two. (e.g. a parent concept in one ontology may not be intended or included in another).
 - *Alleged mappings may be false, incorrect, or partial* if the intended meaning of the mapped entities is not examined and compared. 
@@ -29,8 +29,8 @@ NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifyi
 ## 2. The Myth of Upper-level or Top-level ontology Use or Re-use.
 **MYTH / FALSITY**:x:: you should use an existing upper- or top-level ontology (also called foundational, core, or generic ontology).
 
-**TRUTH** :white_check_mark:: 
-- You **do not need** an upper- or top-level ontology. The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
+**TRUTH** :white_check_mark:: You **do not need** an upper- or top-level ontology. 
+- The same results or benefits purported by supporters of uppper ontolgoies can be achieved through other means. And the myth is often used as a strategy for self-gain by those upper groups to acquire more users and thereby more $ potntial. 
 - **You can create your** own upper or top-level ontology. You can create it collaboratiely or otherwise. 
 -   NOTE: I encourage this in order to foster creativity, diversity and innovation in the communtiy. It will also help ensure ethical practice by helping prevent the monopolization and unfair advantage of any single existing top-level ontology.
 -   NOTE: this is not intended to ignore the years of collaborative effort that have gone into many of the existing top-level ontologies. Yes, such organized and team effort is often more efficient, but this myth and the correspding fact is simply to state the facts.  
