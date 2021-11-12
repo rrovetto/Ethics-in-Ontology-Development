@@ -23,7 +23,7 @@
 - *Compare the intended meaning and formal logical semantics of the two target terms/concepts that potentially map to one another.* 
 All commitments, at each degree of abstraction, of each of the two target concepts, terms, symbol-structures or ontologies to be mapped (or semantically harmonizaed) need to examined and compared. E.g., you need to understand the intended meaning and formal logical semantics of the ground (or most specific leaf term) is, and whether or to what extent it's the same as the other term it potentially maps to.  
 
-NOTE: 'mapping' or 'semantic harmonization' here means the activity of identifying equivalence in intended meaning between two symbol structures (e.g., a term in an ontology, a class with a term label, etc.). 'semantic compatibility' means two ontologies or two concepts/terms/symbol-structures 
+NOTE: 'mapping' and 'semantic harmonization' here means the activity of identifying potential (dis)similarities such as equivalences in intended meaning between two symbol structures (e.g., a term in a vocabulary or ontology, a class with a term label, etc.), and computably asserting them.  
 
 
 ## 2. The Myth of Upper-level or Top-level ontology Use or Re-use.
