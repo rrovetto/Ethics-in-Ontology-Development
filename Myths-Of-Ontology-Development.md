@@ -3,9 +3,9 @@
 * [Purchase the full presentation here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s6308856db204f932337618af86352c19c3c0f8de) or at [this page](https://goget.fund/2IjdMNU).
 * If you find value in my work, [please donate here](https://tinyurl.com/yyoo6z96).
 
-## 1. The Myth of Mappings. 
+## 1. The Myth of Mappings.  When mappings don't map. Prevent semantic harm in your semantic harmonization activity.
 
-**MYTH / FALSITY** :x:: mappings/harmonization/alignment activities between terms, vocabularies, ontologies, etc., are always correct, complete or true mappings. a given mapping/harmonizaiton activity will be accurate and guarantee correct mappings between your and other terms, vocabularies,etc.    
+**MYTH / FALSITY** :x:: mappings/harmonization/alignment activities between terms, vocabularies, ontologies, etc., are always correct, complete or true mappings. A given mapping/harmonizaiton activity will be accurate and guarantee correct mappings between your and other terms, vocabularies, etc.    
 
 **TRUTH(S)** :white_check_mark:: **There are degrees of mappings, degrees of semantic harmoniztion. Mappings may not be correct or complete. There are a number of considersations and tasks to get accurate mappings and harmonization, but not all activities perform them. **
 
@@ -59,8 +59,6 @@ With regard to #2, this is why it's important to understand the assumptions and 
   - BUT, knowledge organization systems and semantic resources such as ontologies are not agnostic: they are inherently about meaning/semantics/knowlege. Some of it may be about profound, sensitive or unanswered concepts of humanity. And therefore there is an ethical aspect and responsibiity to it. Re-use depends on whether that meaning matches yours (or your data), or whether it is correct/accurate/acceptable/etc.  We have an moral responsibility to not simply re-use without knowing the intended meaning, assumped worldviews, and commitments made by semantic models like ontologies, metadata sets, vocabularies, etc. You have a right to be aware and be informed, regardless of the degree of abstraction.
 
 ## Copyright
-
-### Copyright
 © 2017-2021, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
 No claims to completeness. No liability. No warranty.
