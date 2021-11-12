@@ -1,5 +1,6 @@
 # Myths of Ontology Development & Use
 **_Correcting Misinformation for Users and Developers of Ontologies_**
+* Note: some, if not all, of the points below can apply to other systems such as taxonomies, controlled vocabularies, etc.
 * [Purchase the full presentation here](http://my.setmore.com/bookingpage/f18db686-98bb-41dd-9097-35218b2a1091/services/s6308856db204f932337618af86352c19c3c0f8de) or at [this page](https://goget.fund/2IjdMNU).
 * If you find value in my work, [please donate here](https://tinyurl.com/yyoo6z96).
 
