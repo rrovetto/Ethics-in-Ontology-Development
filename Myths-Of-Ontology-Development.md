@@ -40,9 +40,10 @@ NOTE: 'mapping' and 'semantic harmonization' here means the activity of identify
 ## 3. The Myth of Ontology Re-use (in general)
 **Myth / Falsity**:x:: you should re-use existing ontologies (any type).
 
-**TRUTH**:white_check_mark:: You **do not need to (re)use an existing ontology**. **You can create your own and be innovative!** 
+**TRUTH**:white_check_mark:: You **do not need to (re)use an existing ontology. You may reuse. You can instead create your own and be innovative!** 
 - It depends on the situation. Re-use may be helpful sometimes, but it is not necessary.
-- Some who argue for reusing it are assuming that the intended meaning, model and conceptualizations between the potentially (re)used ontology and the user are the same. But we cannot assume this.   
+- Some who argue for reusing it are assuming that the intended meaning, model and conceptualizations between the potentially (re)used ontology and the user are the same. But we cannot assume this.
+- A given ontology (or knowledge model or semantic model or conceptual model) may be too complex.
 - If you consider re-using other ontologies, then **excersie your right to be infored about the intended meaning, formal semantics, assumptions, and commitments the candidate ontology and its developers**. _Exercise due diligence so that you do not commit yourself to a model, or a worldview that you don't agree with or that may exclude the entities, content, data or knowledge of your expertise, beliefs, and discipline._ (e.g., some may exclude or mischaracterize things like Mind)
 
 With regard to #2, this is why it's important to understand the assumptions and meaning of the most abstract ontology models: because some of them assume philosophical theories that may exclude or mischaracterize things you may want to inlude in your model. For example, some ontologies will deny the existence, or miscategorize, things like mind, truth, God, etc. Some may assume a philosophical theory about activities or processes (very broadly concieved) that you may not agree with, or that conflicts with what your data or domain knowledge may suggest. Some may assume a particular theory of causality (cause-effect) that you do not subscribe to. And so on. *This is one reason to make your own ontology and, if desired, your own generic or top-level ontology*.
@@ -51,7 +52,7 @@ With regard to #2, this is why it's important to understand the assumptions and 
 
 **Myth / Falsity**:x:: Do not re-invent the wheel (reuse existing ontologies).
 
-**TRUTH**:white_check_mark:: **You do not need to, but it may be helpful sometimes. You can create and be innovative!**
+**TRUTH**:white_check_mark:: **The analogy is too simplistic for ontology engineering.** **You do not need to, but it may be helpful sometimes. You can create and be innovative!**
 - There are ways to achieve interoperability besides re-use.
 - That myth is expressed in various disciplines, often to the advantage of a few who wish to gain users or custoers of their product. It is often used to justify--incorrectly so--the use of a single product or resource, to the disadvantage of other (perhaps competing products). It's abused as a unethical strategy to get one's ontology adopted or used. 
 
