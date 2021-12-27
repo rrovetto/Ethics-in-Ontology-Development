@@ -16,6 +16,9 @@ Ontologies--as a knowledge representation system--are often described as capturi
 #### Critical questioning & Verification of claims to consensus:
 - We must ask and determine: What is the given knowledge? Is it truly common knowledge? Common among whom? To what degree is it common knowledge? Is it common or agreed knowlege to the group of ontology developer or the users or a specific community? How is it judged as common knowledge?
 
+[Contact to purchase more content or to formally support continued development](https://ontospace.wordpress.com/contact)
+[Hire for services](https://tinyurl.com/hm8wu2sa)
+
 ## Copyright
 © 2020-2022, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
