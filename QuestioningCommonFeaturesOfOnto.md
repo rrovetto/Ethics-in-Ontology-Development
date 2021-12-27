@@ -16,3 +16,8 @@ An often-stated feature of ontologies is their expressing consensus on the model
 Ontologies--as a knowledge representation system--are often described as capturing, encoding or representing common knowledge or commonly-agreed knowledge.
 #### Critical questioning & Verification of claims to consensus:
 - We must ask and determine: What is the given knowledge? Is it truly common knowledge? Common among whom? To what degree is it common knowledge? Is it common or agreed knowlege to the group of ontology developer or the users or a specific community? How is it judged as common knowledge?
+
+## Copyright
+© 2020-2022, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
