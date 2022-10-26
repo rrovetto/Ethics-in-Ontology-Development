@@ -11,6 +11,13 @@ Research and development into ethical, moral and social considerations of variou
 - To ensure fairness, equal opportunity among ontologies in the community.
 - To identify ethical aspects of ontology development and use. 
 
+## Works 
+- "Ethics in Ontology", 2016-present, [PhilPapers](https://philpapers.org/rec/ROVEIO)
+- "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
+- "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
+- "Ethics of Semantics" in [US2TS 2022](https://us2ts.org/2022/program) ([accepted poster](https://github.com/rrovetto/rrovetto/blob/26fe71b0bbc4452ea08e56464a92afcad4cdb638/affiliations-and-work/papers/PROOF_US2TS_Posters_ethics_space.JPG))
+- "The ethics of conceptual, ontological, semantic and knowledge modeling", Rovetto, R.J., [Accepted to journal](https://github.com/rrovetto/rrovetto/blob/559f50e07dd940e67a5394e4475924e2017ea5f5/affiliations-and-work/papers/PROOF_EthicsConceptOnto_AISocietyJournal_2022.JPG), Forthcoming 2022-2023.
+
 ## Preliminary Points
 - Historically, and in modernity, 'ontology' (in the original and non-computaitonal sense) is the generic study of existence. As such, various ontological theories/accounts oftem make fundamental and profound claims about the nature of the world. Therefore, if any aspect of that endeavor (and its metaphysical questions) transfers to contemporary computational ontology where our personal and societal data (of all kinds), then there is a necessary moral imperative to understand what computational ontologies are claiming about the world, and how they are classifying and describing things. Many models, and many classifications, are possible. For these reason, it is both more ethical to not use any computational ontology that imposes any metaphysical worlview.  
 - If ontologies are, in part, about stating the things that are either of interest or presumed to exist, then you should be informed whether a given ontology is inclusive of what you, your data, or your organnization believes to exist. Be aware whether an ontology accepts, or miscategorizes/micharacterizes the things you want to include in an ontology. 
