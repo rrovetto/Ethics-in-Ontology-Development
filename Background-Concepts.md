@@ -1,5 +1,5 @@
 ## Background Concepts in Formal Ontology & Ontology Engineering
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+If you find value in my work, please [support/donate via GoGetFunding](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) or at [via PayPal](https://tinyurl.com/donateViaPayPalrr).
  
 ### 1. There are Many Theories & Many starting assumptions
 
