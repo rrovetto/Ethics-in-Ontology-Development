@@ -60,7 +60,21 @@ With regard to #2, this is why it's important to understand the assumptions and 
   - Re-use is more easily done with tools that are _agnostic_ as to semantics, knowledge, etc. 
   - BUT, knowledge organization systems and semantic resources such as ontologies are not agnostic: they are inherently about meaning/semantics/knowlege. Some of it may be about profound, sensitive or unanswered concepts of humanity. And therefore there is an ethical aspect and responsibiity to it. Re-use depends on whether that meaning matches yours (or your data), or whether it is correct/accurate/acceptable/etc.  We have an moral responsibility to not simply re-use without knowing the intended meaning, assumped worldviews, and commitments made by semantic models like ontologies, metadata sets, vocabularies, etc. You have a right to be aware and be informed, regardless of the degree of abstraction.
 
+## 3 & 4. Restated - on interoperability
+Similar to Myth 3 and Myth 4, we have the following myth that is often accompanied by 3 and 4. 
+
+**Myth / Falsity**:x:: creating ones own ontology is an obstactle to interoperability. ((m) for short.)
+**TRUTH**:white_check_mark::
+* (1) the claim, (m), itself is problematic, requiring far more detail to clarify.
+  * _Problem of interoperability_: What sort of interoperability? What is meant by interoperability? For a given sort of interoperability, can it in fact be achieved by the myth or its contrary?
+  * _Ethically Problematic_: It is not proper for anyone or any organization to imply or dictate to others that they cannot or should not create their own ontology. 
+* (2) Creating ones own ontology is NOT an obstacle to interoperability of the appropriate sort.
+  * It is tantamount to, if not coming from a motivation of, wanting others to use one or more existing ontologies which may or may not be owned by the party who make such statements, theeby being biased, if not ethically questionable. Doing so may be a tactic to get users of a particular existing ontology.
+  
+If you follow that line of thinking to its full extent, you will end up in a state of monopolization, reflective of an intentional or unintentional exlcusionaryness (if not elitism) guised by what seems to be noble goals (e.g., interoperability) but whose basic concepts (e.g., that interoperability) are in fact unclear and questionable. From wanting others to use one or more existing ontologies, the line of thinking will involve questioning the existing of even two ontologies of the same topic, resulting in the elimination of one. It will lead you to reducing that number of existing ontologies until there is just one.
+But then who owns, develops, manages that single, that one ontology? And is such a universal ontology possible, if desired and beneficial at all? Will all people and organizations be able to modify it? Who is the authority(s) for modifications? What if people or orgs. disagree with the content (e.g., the terms, definitions, etc.)? 
+
 ## Copyright
-© 2017-2021, Robert John Rovetto. All right reserved.
+© 2017-2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required. If you use any content from these Github pages, then you must cite them. 
 No claims to completeness. No liability. No warranty.
