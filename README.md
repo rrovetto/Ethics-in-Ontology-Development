@@ -1,5 +1,5 @@
 # Ethical Aspects of Ontology Development & Use
-Research and development into ethical, moral and social aspects of ontologies, ontology development and use. If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
+Research and development into ethical, moral and social aspects of ontologies, ontology development and use. 
 
 **NOTE** For more details, [contact the author](https://ontospace.wordpress.com) to purchase content (see the Works sections below), to hire for lectures, or to formally sponsor or support this research. Open to formal work collaborations, a PhD study opportunity, etc.
 
@@ -20,7 +20,6 @@ Research and development into ethical, moral and social aspects of ontologies, o
 - "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
 
-
 ## Preliminary Points
 - Historically, but also in modernity, the original and non-computaitonal sense of 'ontology' is the generic study of existence. As such, various philosophical or otherwise sepeculative ontological theories/accounts have been posited. As such, they often make fundamental and profound claims about the nature of the world.
 - Therefore, one fundamental idea for what I call _the ethics of ontology_ (and _the ethics of semantics_ and the ethics of _knowledge organization systems_ more broadly)-- i.e., for inquiry into the ethical and moral aspets of computational ontologies, their development, and their use-- is that if any aspect of that endeavor (and its metaphysical questions) transfers to contemporary computational activities involving personal and societal data, then there is a necessary moral imperative to understand the implications thereof. More specifically, there is a moral imperative to understand what computational ontologies are claiming about the world, and how they are classifying and describing your data, your content, your knowledge, and other things.
@@ -37,8 +36,10 @@ Research and development into ethical, moral and social aspects of ontologies, o
 - **One ethical area of concern** is about an often-stated aspect of ontologies: **consensus/aggrement**. Ontologies are often described as being examples of common agreement (of a vocabulary, its definitions; of a worldview, of a model of the target domain of interest, etc.); or as aiming to reach consensus.
   - We must ask and determine: is there, actually, agreement/consensus? was it reached? if so, how?  
 
-### Support
-If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
+## Support
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/) or [use this PayPal link](https://tinyurl.com/donateViaPayPalrr). 
+
+As an unfunded personal project to date, formal support (such as funding, work opportunnities, formal collaborations, etc.) is needed to continue and sustain development.
 
 ## Copyright
 © 2017-2023, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. 
