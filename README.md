@@ -42,6 +42,9 @@ If you find value in my work, please [support/donate here](https://gogetfunding.
 
 As an unfunded personal project to date, formal support (such as funding, work opportunnities, formal collaborations, etc.) is needed to continue and sustain development.
 
+## Attribution
+If you find value or use in any of the content or work here, please give attribution by referencing/citing this or the above-mentioned works. Citation style may be: "Rovetto, Robert J. "The Ethics of Ontology Development and Use", https://github.com/rrovetto/Ethics-of-Ontology-Development-and-Use/
+
 ## Copyright
 © 2017-2023, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. 
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy. Citation/attribution required. If you use any content from these Github pages, then you must cite them.
