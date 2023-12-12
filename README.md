@@ -5,6 +5,8 @@ Research and development into ethical, moral and social aspects of ontologies, o
 Actively open to formal work collaborations, a study opportunity, etc.
 
 ## Goals
+- To explore the ethics of ontology in philosophical and computational contexts
+- To explore application of contemporary ethics of AI and digital ethics topics, and the application of distinct ethical and moral theories
 - A set of ethical guidelines/principles for ontology development.
 - To correct [misinformation and myths](https://github.com/rrovetto/Ethical-Ontology-Development/blob/master/Myths-Of-Ontology-Development.md) and distinguish facts from fictions of ontology development and use.
 - To increase moral awareness and responsibility in relevant communities and projects.
