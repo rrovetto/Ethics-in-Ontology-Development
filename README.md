@@ -1,7 +1,8 @@
 # Ethical Aspects of Ontology Development & Use
 Research and development into ethical, moral and social aspects of ontologies, ontology development and use. 
 
-**NOTE** For more details, [contact the author](https://ontospace.wordpress.com) to purchase content (see the Works sections below), to hire for lectures, or to formally sponsor or support this research. Open to formal work collaborations, a PhD study opportunity, etc.
+[Contact the author](https://ontospace.wordpress.com) to purchase content (see the Works sections below), to hire for lectures, to formally sponsor or support this research, or to discuss. 
+Actively open to formal work collaborations, a study opportunity, etc.
 
 ## Goals
 - A set of ethical guidelines/principles for ontology development.
