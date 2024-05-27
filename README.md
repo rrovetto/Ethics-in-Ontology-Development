@@ -23,7 +23,7 @@ Actively open to formal work collaborations, a study opportunity, etc.
 - "Ethics of Vocabulary Development and Use", [PPT presentation](https://zenodo.org/records/10161560) at AU Vocabulary Symposium by Australian Research Data Commons (Nov 2023)
 - "Ethical Aspects of Ontology Development and Use", submitted (but rejected) to IJCKG 2021 - [Purchase here](https://booking.setmore.com/scheduleappointment/f18db686-98bb-41dd-9097-35218b2a1091/services/52c02ada-fdff-4ba4-9e78-d4c1f3de9f5d)
 - "Ethical aspects of Knowledge Engineering - Toward the Ethics of Ontology", submitted (but rejected) to EKAW2022.
-- "The Ethics of Ontology - An Overview", Presentation and Paper at 1st WISDOMS Workshop at Extended Semantic Web Conference, 27 May 2024. 
+- "The Ethics of Ontology - An Overview", Presentation and Paper at [1st WISDOMS Workshop](https://wisdoms-workshop.github.io/program.html) at Extended Semantic Web Conference, 27 May 2024. 
 
 ## Noteworthy Reviews
 - "The paper provides a comprehensive overview of the ethical considerations surrounding ontology, particularly in the context of AI and data ethics. It delves into different topics such as transparency, pitfalls, myths, and the implications of philosophical assumptions in ontology development. The author's interdisciplinary approach is commendable, as it bridges philosophical, computational, and ethical perspectives." (Reviewers of 2024 Workshop)
